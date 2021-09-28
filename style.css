@@ -1,0 +1,20 @@
+body{
+    background-color: aquamarine;
+}
+h1{
+    color: brown;
+    text-align: center;
+}
+em{
+    text-align: center; 
+}
+#myid1{
+    color: darkblue;
+}
+.myclass{
+    background-color: darkgoldenrod;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
